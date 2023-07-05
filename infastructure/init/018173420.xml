@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-05-29T09:26:20</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018173420</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018173420</ApplicationNumber>
+<ApplicationDate>2020-01-04</ApplicationDate>
+<RegistrationDate>2020-05-22</RegistrationDate>
+<ApplicationLanguageCode>it</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-01-04</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-05-29</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>DONKLY</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000159794856</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/173/018173420/000159794856.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>03.06.25</CategoryCode>
+          <CategoryCode>27.03.03</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>29</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Мляко; Млечни заместители; Напитки, приготвени от или съдържащи мляко; Млечни напитки с плодова добавка; Напитки на основата на мляко, съдържащи плодов сок.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Mléko; Náhražky mléka; Nápoje vyrobené z mléka nebo obsahující mléko; Mléčné nápoje obsahující ovoce; Nápoje na bázi mléka s obsahem ovocné šťávy.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Mælk; Mælkeerstatninger; Drikke fremstillet af eller indeholdende mælk; Mælkedrikke indeholdende frugt; Mælkebaserede drikke indeholdende frugtsaft.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Milch; Milchersatz; Getränke aus Milch oder Milch enthaltende Getränke; Fruchthaltige Milchgetränke; Milchgetränke, auch Fruchtsäfte enthaltend.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Γάλα· Υποκατάστατα γάλακτος· Ροφήματα από ή που περιέχουν γάλα· Ποτά με βάση το γάλα που περιέχουν φρούτα· Ροφήματα με βάση το γάλα που περιέχουν χυμό φρούτων.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Milk; Milk substitutes; Beverages made from or containing milk; Milk drinks containing fruits; Milk-based beverages containing fruit juice.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Leche; Sucedáneos de la leche; Bebidas hechas de o que contienen leche; Bebidas de leche que contienen frutas; Bebidas a base de leche que contienen zumo de frutas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Piim; Piimaasendajad; Piimast valmistatud või seda sisaldavad joogid; Puuviljasisaldusega piimajoogid; Piimapõhised puuviljamahla sisaldavad joogid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Maito; Maidon korvikkeet; Maidosta valmistetut tai maitoa sisältävät juomat; Hedelmiä sisältävät maitojuomat; Maitopohjaiset juomat, jotka sisältävät hedelmämehua.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Lait; Succédanés de lait; Boissons à base de lait ou contenant du lait; Boissons à base de lait contenant des fruits; Boissons à base de lait contenant des jus de fruits.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Mlijeko; Zamjene za mlijeko; Pića napravljena od mlijeka ili koja sadrže mlijeko; Mliječna pića s voćem; Pića na bazi mlijeka koja sadrže voćni sok.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Tej; Tejhelyettesítők; Tejből készült vagy tejtartalmú italok; Gyümölcsöt tartalmazó tejitalok; Gyümölcslevet tartalmazó tejalapú italok.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Latte; Succedanei del latte; Bevande a base di o contenenti latte; Bevande al latte contenenti frutta; Bevande a base di latte contenenti succo di frutta.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Pienas; Pieno pakaitalai; Gėrimai iš pieno ar kurių sudėtyje yra pieno; Pieno gėrimai su vaisiais; Pieniški gėrimai su vaisių sultimis.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Piens; Piena aizstājēji; Dzērieni, kas izgatavoti no piena vai satur to; Piena dzērieni ar augļu piedevām; Piena dzērieni, kas satur augļu sulu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Ħalib; Sostituti tal-ħalib; Xarbiet magħmulin minn jew li fihom il-ħalib; Xorb tal-ħalib li fih il-frott; Xorb ibbażat fuq il-ħalib li jinkludi l-meraq tal-frott.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Melk; Melkvervangers; Dranken gemaakt van melk of melk bevattend; Melkdranken die fruit bevatten; Dranken op basis van melk bevattende vruchtensappen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Mleko; Substytuty mleka; Napoje przyrządzone z mleka lub zawierające mleko; Napoje mleczne zawierające owoce; Napoje na bazie mleka zawierające sok owocowy.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Leite; Substitutos do leite; Bebidas feitas de ou contendo leite; Bebidas lácteas que contém frutas; Bebidas à base de leite que contêm sumo de frutas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Lapte; Înlocuitori de lapte; Băuturi preparate din lapte sau care conțin lapte; Băuturi din lapte cu conținut de fructe; Băuturi pe bază de lapte cu conținut de suc de fructe.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Mlieko; Náhradky mlieka; Nápoje vyrobené z mlieka alebo s obsahom mlieka; Mliečne nápoje obsahujúce ovocie; Mliečne nápoje obsahujúce ovocné šťavy.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Mleko; Nadomestki za mleko; Pijače, pripravljene iz mleka ali ki vsebujejo mleko; Mlečni napitki s sadjem; Pijače na osnovi mleka, ki vsebujejo sadni sok.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Mjölk; Mjölkersättningar; Drycker tillverkade av eller innehållande mjölk; Mjölkdrycker innehållande frukt; Mjölkbaserade drycker med fruktjuice.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>30</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Сладолед; Заместители на сладолед; Сладкиши, кексове, торти и бисквити; Сладкарски блокчета; Всички горепосочени, с изключение на шоколади, на таблетки и като шоколадова паста.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Vodová a smetanová zmrzlina; Náhražka zmrzliny; Moučníky, zákusky, dorty a sušenky; Tyčinky (cukrovinky); Vše výše uvedené kromě čokolád, tabulek a čokoládových pomazánek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Iscreme; Iscremeerstatning; Konditorivarer, kager, tærter, kiks og småkager; Konfekturestænger; Alle førnævnte varer, dog ikke pralinéer, chokoladeplader og chokoladesmørepålæg.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Eiscreme; Eiscremeersatz; Gebäck, Kuchen, Torten und Kekse; Süßwarenriegel; Alles vorstehend Genannte mit Ausnahme von Schokoladen, Tafeln und Schokoaufstrichen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Παγωτά που φτιάχνονται με γάλα ή με κρέμα γάλακτος· Υποκατάστατα παγωτού· Γλύκισματα, κέικ, τάρτες και μπισκότα· Είδη ζαχαροπλαστικής σε μορφή ράβδου· Τα προαναφερόμενα στο σύνολό τους εκτός από σοκολατάκια, δισκία και παρασκευάσματα σοκολάτας σε μορφή κρέμας.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Ice cream; Ice cream substitute; Pastries, cakes, tarts and biscuits (cookies); Confectionery bars; all the before mentioned with exclusion of chocolates, tablets and chocolate spreads.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Helados cremosos; Sucedáneos de helado; Pastas, pasteles, tartas y galletas; Barras de golosina; Todo lo anteriormente mencionado con exclusión de chocolates, tabletas y pastas de untar de chocolate.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Koore- või piimajäätis; Jäätise aseaine; Kondiitritooted, koogid, tordid ja biskviidid (küpsised); Maiustusetahvlid; Kõik eelnimetatu, välja arvatud šokolaadid, tabletid ja šokolaadimäärded.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Jäätelöt; Jäätelönkorvikkeet; Leivonnaiset, kakut, piirakat ja keksit; Makeispatukat; Kaikki edellä mainitut, paitsi suklaat, suklaalevyt ja suklaalevitteet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Crèmes glacées; Succédané de crème glacée; Pâtisseries, gâteaux, tartes et biscuits; Confiseries en barre; Tous les produits précités, à l'exclusion des chocolats, des tablettes et des pâtes à tartiner au chocolat.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Sladoled; Zamjena za sladoled; Slastice, torte, pite i keksi; Konditorske pločice; Sve gore spomenuto osim čokolade, pločica i čokoladnih namaza.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Fagylaltok és jégkrémek; Fagylaltpótlók; Sütemények, cukrászsütemények, torták és kekszek (aprósütemények); Édesség szeletek; Az összes fent említett, kivéve a csokoládét, a tablettát és a csokoládékészítményeket.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Gelati; Succedanei del gelato; Pasticcini, torte, crostate e biscotti; Prodotti dolciari in barrette; Tutto quanto già menzionato a esclusione di cioccolato, tavolette e creme da spalmare a base di cioccolato.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Ledai; Ledų pakaitalai; Miltiniai konditerijos gaminiai, kepiniai, tortai ir sausainiai; Konditeriniai batonėliai; Visa tai, kas paminėta anksčiau, išskyrus šokoladinius saldainius, plyteles ir šokolado užtepus.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Pārtikas ledus (atspirdzinājumam); Saldējuma aizstājēji; Konditorejas izstrādājumi, kūkas, tortes un cepumi; Saldumu tāfelītes; Viss iepriekš minētais, izņemot šokolādes, plāksnītes un šokolādes krēmus.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Silġijiet u ġelati; Imitazzjoni tal-ġelat; Pasti, kejkijiet, torti u gallettini (cookies); Biċċiet solidi tal-ħelu; Dawk kollha msemmija qabel minbarra cikkulata, trejs u ċikkulata li tindilek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Roomijs; Roomijsvervangers; Banketbakkerswaren, cakes, taarten en biscuits (koekjes); Snoepgoedrepen; Al het voornoemde met uitzondering van chocolaatjes, chocoladerepen/-tabletten en chocoladepasta.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Lody; Substytuty lodów; Wyroby cukiernicze, ciasta, tarty i ciasteczka; Batoniki cukiernicze; Wszystkie wyżej wymienione, z wyjątkiem czekoladek, tabletek i czekoladowych past do smarowania.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Cremes gelados; Sucedâneos de gelado; Pastelaria, bolos, tartes e biscoitos (bolachas); Barras de confeitaria; Todos os produtos atrás referidos excluindo chocolates, tabletes e pastas de chocolate para barrar.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Îngheţată; Înlocuitor de îngheţată; Produse de patiserie, prăjituri, tarte şi biscuiţi (prăjiturele); Batoane dulci; Toate cele susmenționate cu excepția ciocolatelor, tabletelor și cremelor de ciocolată.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Smotanové zmrzliny; Náhrada zmrzliny; Jemné pečivo, koláče, torty, sušienky; Cukrovinky vo forme tyčiniek; Žiadne z vyššie uvedených výrobkov nezahŕňajú čokoládu, tablety a čokoládové nátierky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Sladoled; Nadomestek sladoleda; Fino pecivo, torte, kolači in piškoti; Slaščice v obliki ploščic; Vse navedeno brez čokolad, ploščic in čokoladnih namazov.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Isglass och glass; Glassersättningar; Bakverk, kakor, tårtor och kex (småkakor); Godisbitar; Bland de nämnda ej choklad, chokladkakor och bredbara chokladpålägg.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/010</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-01-17</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/100</PublicationIdentifier>
+        <PublicationSection>B.2</PublicationSection>
+        <PublicationDate>2020-05-28</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

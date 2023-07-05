@@ -1,0 +1,142 @@
+{
+	"info": {
+		"_postman_id": "32b68c29-b4bc-41e3-a6ba-d9228f23d3bb",
+		"name": "TradeMarkSearchServiceCollection",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "17780470",
+		"_collection_link": "https://crimson-zodiac-77736.postman.co/workspace/TradeMarkSearchin~f028184c-8a5b-4f9e-8877-fdc3b771b306/collection/17780470-32b68c29-b4bc-41e3-a6ba-d9228f23d3bb?action=share&creator=17780470&source=collection_link"
+	},
+	"item": [
+		{
+			"name": "findAll",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:8081/trademarks/?page=0&size=10",
+					"host": [
+						"localhost"
+					],
+					"port": "8081",
+					"path": [
+						"trademarks",
+						""
+					],
+					"query": [
+						{
+							"key": "page",
+							"value": "0"
+						},
+						{
+							"key": "size",
+							"value": "10"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "findAlBySearchValue",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:8081/trademarks?searchValue=\"Spectacles\"&page=0&size=10",
+					"host": [
+						"localhost"
+					],
+					"port": "8081",
+					"path": [
+						"trademarks"
+					],
+					"query": [
+						{
+							"key": "searchValue",
+							"value": "\"Spectacles\""
+						},
+						{
+							"key": "page",
+							"value": "0"
+						},
+						{
+							"key": "size",
+							"value": "10"
+						}
+					]
+				}
+			},
+			"response": [
+				{
+					"name": "findAlBySearchValue",
+					"originalRequest": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "localhost:8080/trademarks?searchValue=\"Spectacles\"",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"trademarks"
+							],
+							"query": [
+								{
+									"key": "searchValue",
+									"value": "\"Spectacles\""
+								}
+							]
+						}
+					},
+					"status": "OK",
+					"code": 200,
+					"_postman_previewlanguage": "json",
+					"header": [
+						{
+							"key": "Content-Type",
+							"value": "application/json"
+						},
+						{
+							"key": "Transfer-Encoding",
+							"value": "chunked"
+						},
+						{
+							"key": "Date",
+							"value": "Wed, 05 Jul 2023 06:56:54 GMT"
+						},
+						{
+							"key": "Keep-Alive",
+							"value": "timeout=60"
+						},
+						{
+							"key": "Connection",
+							"value": "keep-alive"
+						}
+					],
+					"cookie": [],
+					"body": "<PageImpl><pageable><sort><sorted>false</sorted><unsorted>true</unsorted><empty>true</empty></sort><pageNumber>0</pageNumber><pageSize>20</pageSize><offset>0</offset><paged>true</paged><unpaged>false</unpaged></pageable><last>true</last><totalPages>0</totalPages><totalElements>0</totalElements><first>true</first><number>0</number><sort><sorted>false</sorted><unsorted>true</unsorted><empty>true</empty></sort><numberOfElements>0</numberOfElements><size>20</size><empty>true</empty></PageImpl>"
+				}
+			]
+		},
+		{
+			"name": "findByApplicationNumber",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:8081/trademarks/018173410",
+					"host": [
+						"localhost"
+					],
+					"port": "8081",
+					"path": [
+						"trademarks",
+						"018173410"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

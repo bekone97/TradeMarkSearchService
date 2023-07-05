@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-06-09T08:50:02</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018173422</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018173422</ApplicationNumber>
+<ApplicationDate>2020-01-04</ApplicationDate>
+<RegistrationDate>2020-05-22</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>de</SecondLanguageCode>
+<ExpiryDate>2030-01-04</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-06-09</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>110%</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000159794978</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/173/018173422/000159794978.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>24.17.09</CategoryCode>
+          <CategoryCode>27.07.12</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>12</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Превозни и транспортни средства.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Vozidla a dopravní prostředky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Køretøjer og befordringsmidler.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Fahrzeuge und Beförderungsmittel.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Οχήματα και μέσα μεταφοράς.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Vehicles and conveyances.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Vehículos y medios de transporte.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Sõidukid ja transpordivahendid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Ajoneuvot ja kulkuneuvot.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Véhicules et moyens de transport.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Vozila i prijevozna sredstva.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Járművek és szállítóeszközök.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Veicoli e mezzi di trasporto.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Transporto priemonės ir vežimėliai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Transportlīdzekļi un pārvietošanas līdzekļi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Vetturi u vetturi għall-ġarr.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Voertuigen en vervoermiddelen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Pojazdy i środki transportu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Veículos e meios de transporte.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Vehicule și mijloace de transport.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Vozidlá a dopravné prostriedky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Vozila in prevozna sredstva.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Fordon och -fortskaffningsmedel.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>25</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Части от облекло, обувки, шапки и принадлежности за глава.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Části oděvů, obuvi a pokrývek hlavy.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Dele af beklædningsgenstande, fodtøj og hovedbeklædning.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Teile von Bekleidungsstücken, Schuhwaren und Kopfbedeckungen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Μέρη ενδυμάτων, υποδημάτων και ειδών πιλοποιίας.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Parts of clothing, footwear and headgear.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Partes de indumentaria, calzado y sombrerería.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Rõivaste, jalatsite ja peakatete osad.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Vaatteiden, jalkineiden ja päähineiden osat.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Parties de vêtements, articles chaussants et articles de chapellerie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Dijelovi odjeće, obuće i pokrivala za glavu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Ruházat, lábbelik és fejfedők részei.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Parti di abbigliamento, calzature e articoli di cappelleria.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Drabužių, avalynės ir galvos apdangalų dalys.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Apģērbu, apavu un galvassegu daļas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Partijiet minn ħwejjeġ, xedd is-saqajn u xedd ir-ras.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Delen van kleding, schoeisel en hoofdbedekking.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Części odzieży, obuwia i nakryć głowy.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Partes de vestuário, calçado e chapelaria.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Părți de îmbrăcăminte, încălțăminte și articole pentru acoperirea capului.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Časti oblečenia, obuvi a pokrývok hlavy.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Deli oblačil, obutve in pokrival.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Delar av kläder, fotbeklädnader och huvudbonader.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>28</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Играчки, игри.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Hračky, hry a žertovné předměty.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Legetøj, spil og festartikler.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Spielwaren, Spiele, Spielzeug und Kuriositäten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Παιδικά παιχνίδια, παιχνίδια, αθύρματα και παιχνίδια ενηλίκων (γκάτζετς).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Toys, games, playthings and novelties.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Juguetes, juegos, artículos para jugar y baratijas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Mänguasjad, mängud ja peotarbed, pilakaubad.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Lelut, pelit, leikkivälineet, karnevaali- ja pilailutarvikkeet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Jouets, jeux et cotillons.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Igračke, igre, predmeti za igranje i zabavu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Játékok, játékszerek és ajándéktárgyak.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Giochi, giocattoli, balocchi e ninnoli.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Žaislai, žaidimai, žaisliukai ir niekučiai (dovanėlės).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Rotaļlietas, spēles, spēļlietas un suvenīru rotaļlietas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Ġugarelli, logħob, oġġetti tal-logħob u novitajiet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Speelgoed, spellen, speelgoederen en feestartikelen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Gry, zabawki i akcesoria do zabawy.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Brinquedos, jogos, artigos de brincar e de festa.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Jucării, jocuri, articole de joacă și articole pentru petrecere.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Hračky, hry, stavebnice a drobný hračkársky tovar.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Igrače, igre, predmeti za zabave in trike.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Leksaker, spel och skämtartiklar.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/012</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-01-21</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/107</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-06-09</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1057495</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

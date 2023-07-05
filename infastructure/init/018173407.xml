@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-06-04T09:15:36</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018173407</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018173407</ApplicationNumber>
+<ApplicationDate>2020-01-02</ApplicationDate>
+<RegistrationDate>2020-05-22</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>fr</SecondLanguageCode>
+<ExpiryDate>2030-01-02</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-06-04</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>ALOHA MEDICINALS natural products</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000159748094</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/173/018173407/000159748094.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>05.11.05</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>5</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Хранителни добавки за животни; Диетични добавки за хора.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Potravinové doplňky pro zvířata; Dietní doplňky pro lidskou potřebu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Kosttilskud til dyr; Diættilskud til mennesker.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Nahrungsergänzungsmittel für Tiere; Nahrungsergänzungsmittel für Menschen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Συμπληρώματα διατροφής για ζώα· Συμπληρώματα διατροφής για ανθρώπους.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Dietary supplements for animals; Dietary supplements for humans.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Suplementos dietéticos para animales; Suplementos dietéticos para humanos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Toidulisandid loomadele; Toidulisandid inimestele.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Lisäravinteet eläimille; Lisäravinteet ihmisille.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Compléments alimentaires pour animaux; Compléments alimentaires propres à la consommation humaine.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Dodaci prehrani za životinje; Dijetalni dodaci ljudskoj prehrani.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Étrend-kiegészítők állatok számára; Humán étrendkiegészítők.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Integratori alimentari per animali; Alimenti complementari nel regime alimentare degli esseri umani.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Dietiniai gyvūnų maisto papildai; Maisto papildai žmonėms.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Uztura bagātinātāji dzīvniekiem; Uztura bagātinātāji cilvēkiem.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Supplimenti tad-dieta għall-annimali; Supplimenti dijetetiċi għall-bnedmin.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Diëtische supplementen voor dieren; Dieetsupplementen voor mensen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Suplementy diety dla zwierząt; Suplementy diety dla ludzi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Suplementos nutricionais para animais; Suplementos alimentares para consumo humano.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Suplimente alimentare pentru animale; Suplimente dietetice pentru consumul uman.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Výživové doplnky pre zvieratá; Diétne potravinové doplnky pre ľudí.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Prehranska dopolnila za živali; Prehranski dodatki za ljudi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Dietiska tillskott för djur; Kosttillskott för personer.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PriorityDetails>
+<Priority>
+<PriorityCountryCode>US</PriorityCountryCode>
+<PriorityNumber>88497555</PriorityNumber>
+<PriorityDate>2019-07-02</PriorityDate>
+<PriorityPartialIndicator>false</PriorityPartialIndicator>
+<PriorityStatusCode>Claimed</PriorityStatusCode>
+</Priority>
+</PriorityDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/013</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-01-22</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/104</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-06-04</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1057252</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>90432</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

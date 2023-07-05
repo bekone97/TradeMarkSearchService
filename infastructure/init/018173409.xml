@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-10-27T18:34:20</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018173409</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018173409</ApplicationNumber>
+<ApplicationDate>2020-01-03</ApplicationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>fr</SecondLanguageCode>
+<MarkCurrentStatusCode milestone="22" status="5">Application opposed</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-04-16</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>euroscrubby</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>21</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Абразивни подложки за кухненски или домакински цели; Триещи гъбички за кухненски цели; Абразивни гъби [почистващи] за кухнята; Абразивни инструменти [почистващи] за използване в кухнята; Абразивни кърпи.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Abrazivní houbičky a destičky pro domácnost nebo kuchyň; Abrazivní houbičky pro kuchyňské použití; Abrazivní houbičky pro použití na čištění v kuchyni; Brusné nástroje pro použití na čištění kuchyně; Abrazivní houbičky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Skuresvampe til køkken- eller husholdningsbrug; Skuresvampe til køkkenbrug; Skuresvampe til køkkenrengøring; Slibeinstrumenter til køkkenformål [rengøring]; Skuresvampe.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Scheuerkissen für die Küche oder Haushaltszwecke; Scheuerkissen für die Küche; Scheuerschwämme für die Küchenreinigung; Scheuerinstrumente für die Küche; Scheuerpads.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Λειαντικά επιθέματα για χρήση στην κουζίνα ή οικιακή χρήση· Σφουγγαράκια στιλβωτικά για την κουζίνα· Σφουγγάρια απόξεσης για χρήση στην κουζίνα [καθαρισμός]· Λειαντικά όργανα για χρήση (καθαρισμός) στην κουζίνα· Σφουγγαράκια πιάτων για τρίψιμο (σύρματα).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Abrasive pads for kitchen or domestic purposes; Abrasive pads for kitchen purposes; Abrasive sponges for kitchen [cleaning] use; Abrasive instruments for kitchen [cleaning] purposes; Abrasive pads.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Estropajos para la cocina y el hogar; Esponjas abrasivas para la cocina; Esponjas abrasivas para su uso en la limpieza de cocinas; Instrumentos abrasivos de limpieza para cocina; Estropajos abrasivos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Abrasiivpadjakesed köögi- või majapidamisotstarbeks; Abrasiivpadjakesed köögis kasutamiseks; Abrasiivsed puhastuskäsnad [köögitarbed]; Abrasiivsed puhastustarbed [köögitarbed]; Abrasiivpadjakesed.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Hankaustyynyt keittiö- tai kotitaloustarkoituksiin; Hiomasienet keittiökäyttöön; Hankaussienet keittiötarkoituksiin [puhdistukseen]; Hankausvälineet keittiötarkoituksiin [puhdistukseen]; Hankaustyynyt.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Tampons abrasifs pour la cuisine ou à usage domestique; Tampons abrasifs pour la cuisine; Éponges abrasives pour nettoyer la cuisine; Instruments abrasifs pour nettoyer la cuisine; Tampons abrasifs.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Abrazivne spužve za uporabi u kuhinji ili kućanstvu; Abrazivne krpe za kuhinjsku uporabu; Abrazivne spužve za kuhinjsku uporabu [čišćenje]; Abrazivni pribor za kuhinjske namjene [čišćenje]; Abrazivne krpe.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Konyhai vagy háztartási használatra szánt súrolópárnák; Konyhai dörzsik; Dörzsszivacsok konyhai használatra [tisztításhoz]; Csiszolóeszközök konyhai használatra [tisztításhoz]; Csiszolópárnák, dörzsik.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Tamponi abrasivi per la cucina o per uso domestico; Cuscinetti abrasivi per la cucina; Spugne abrasive per la cucina [pulire]; Strumenti abrasivi per la cucina [pulire]; Tamponi abrasivi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Švitriniai šveistukai virtuvės ar namų apyvokos reikmėms; Virtuviniai švitriniai šveistukai; Švitrinės kempinės virtuvės [valymo] reikmėms; Švitriniai įrankiai virtuvės [valymo] reikmėms; Švitriniai šveistukai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Abrazīvi paliktņi virtuvei vai mājsaimniecībai; Abrazīvi sūkļi, kas paredzēti izmantošanai virtuvē; Abrazīvi sūkļi izmantošanai virtuvē [tīrīšanai]; Abrazīvi instrumenti izmantošanai virtuvē [tīrīšanai]; Abrazīvi sūkļi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Pads li joborxu għall-użu fil-kċina jew domestiku; Peds joborxu għal-skopijiet tal-kċina; Sponoż li joborxu għall-użu fil-kċina [tindif]; Apparat li jobrox għall-skopijiet ta' tindif fil-kċina; Peds joborxu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Schuursponsjes voor in de keuken of voor huishoudelijke doeleinden; Schuursponsjes voor de keuken; Schuursponsjes voor reinigingsdoeleinden in de keuken; Schuurinstrumenten voor keukengebruik [reinigen]; Schuurkussentjes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Zmywaki ścierne do celów kuchennych lub domowych; Zmywaki ścierne do celów kuchennych; Gąbki ścierne do użytku w kuchni [czyszczenie]; Przyrządy ścierne do celów kuchennych [czyszczenie]; Zmywaki ścierne.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Esponjas abrasivas para uso na cozinha ou uso doméstico; Esponjas abrasivas para cozinha; Esponjas abrasivas para uso em limpeza de cozinhas; Instrumentos abrasivos para a limpeza da cozinha; Esfregões abrasivos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Bureți abrazivi de bucătărie sau de uz casnic; Bureți abrazivi pentru bucătărie; Bureți abrazivi pentru utilizare în bucătărie [curățare]; Instrumente abrazive pentru utilizare în bucătărie [curățare]; Bureți abrazivi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Brúsne hubky na použitie v kuchyni alebo v domácnosti; Drôtenky na použitie v kuchyni; Drsné hubky na čistenie v kuchyni; Drsné nástroje na kuchynské [čistiace] účely; Brúsne hubky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Abrazivne blazinice za kuhinjsko ali domačo uporabo; Grobe kuhinjske krpice (strgalniki); Abrazivne gobice za čiščenje kuhinj; Abrazivni pripomočki za čiščenje kuhinj; Abrazivne gobice.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Slipdynor för köks- eller hushållsändamål; Slipkuddar för köksändamål; Slipsvampar för köksändamål [rengöring]; Slipredskap för köksändamål [rengöring]; Slipkuddar.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/011</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-01-20</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<OppositionDetails>
+<Opposition>
+<OppositionIdentifier>003116195</OppositionIdentifier>
+<OppositionDate>2020-04-16</OppositionDate>
+<ProceedingLanguageCode>en</ProceedingLanguageCode>
+<OppositionGroundText>
+Identity of marks and G&amp;S
+Likelihood of confusion</OppositionGroundText>
+<EarlierMarkDetails>
+<EarlierMark>
+<EarlierMarkCountryCode>GB</EarlierMarkCountryCode>
+<ApplicationNumber>UK00003183275</ApplicationNumber>
+<ApplicationDate>2016-08-31</ApplicationDate>
+<RegistrationNumber>UK00003183275</RegistrationNumber>
+<RegistrationDate>2016-12-02</RegistrationDate>
+<MarkFeature>Word</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>euroSCRUBBY</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+<EarlierMark>
+<EarlierMarkCountryCode>GB</EarlierMarkCountryCode>
+<ApplicationNumber>UK00003183275</ApplicationNumber>
+<ApplicationDate>2016-08-31</ApplicationDate>
+<RegistrationNumber>UK00003183275</RegistrationNumber>
+<RegistrationDate>2016-12-02</RegistrationDate>
+<MarkFeature>Word</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>euroSCRUBBY</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+</EarlierMarkDetails>
+<OpponentDetails>
+<OpponentKey>
+<Identifier>1080431</Identifier>
+</OpponentKey>
+</OpponentDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>93167</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</Opposition>
+</OppositionDetails>
+<MarkRecordDetails>
+<MarkRecord>
+<BasicRecord>
+<RecordIdentifier>018189913</RecordIdentifier>
+<BasicRecordKind>Proprietor - Change of name and address</BasicRecordKind>
+<RecordCurrentStatusCode>Not to be published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2020-07-20</RecordCurrentStatusDate>
+</BasicRecord>
+</MarkRecord>
+</MarkRecordDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

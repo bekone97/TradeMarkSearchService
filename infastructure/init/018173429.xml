@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-09-23T13:10:04</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018173429</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018173429</ApplicationNumber>
+<ApplicationDate>2020-01-04</ApplicationDate>
+<RegistrationDate>2020-05-22</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>de</SecondLanguageCode>
+<ExpiryDate>2030-01-04</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-06-04</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>OXYPOD</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>3</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Нелекарствени ексфолиращи препарати за кожа в ексфолираща капсула за естетично лечение на кожата на лицето и тялото, за употреба с козметични медицински апарати, Нищо от горното не е за превенция или Препарати за употреба при акне.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Neléčivé peelingové přípravky na pokožku v peelingových kapslích pro estetickou péči o pokožku obličeje a těla pro použití s kosmetickými lékařskými přístroji, Nic z výše uvedeného není určeno pro prevenci nebo Přípravky pro léčbu akné.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Ikke-medicinske eksfolierende præparater til huden i eksfolierende kapsler til ansigts- og kropsbehandling til brug med kosmetiske medicinske apparater, Ingen af førnævnte til forebyggelse eller Acnepræparater.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Nicht medizinische Peeling-Kapseln zur ästhetischen Hautbehandlung für Gesicht und Körper zur Verwendung mit kosmetischen medizinischen Geräten, Keine der vorstehend genannten Waren zur Prävention oder Aknebehandlungsmittel.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Μη φαρμακευτικά παρασκευάσματα απολέπισης για το δέρμα σε κάψουλες απολέπισης για αισθητικές θεραπείες δέρματος προσώπου και σώματος για χρήση με συσκευές αισθητικής ιατρικής, Κανένα από τα προαναφερόμενα για την πρόληψη ή Θεραπείες για την ακμή.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Non-medicated exfoliating preparations for skin in exfoliating capsule for Aesthetic Facial and Body Skin Treatment for Use with Cosmetic Medical Apparatus, none of the above for the prevention or treatment of acne.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Preparaciones exfoliantes no medicinales para la piel en cápsula exfoliante para tratamiento de la piel estético facial y corporal para su uso con aparatos médicos cosméticos, Nada de lo anterior para la prevención o Tratamientos anti-acné.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Ravitoimeta koorimiskapslid, mis on ette nähtud näo ja keha esteetiliseks raviks koos kosmeetiliste meditsiiniseadmetega, Ükski eelnimetatutest ei ole vältimiseks või Akneraviained.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Lääkeaineita sisältämättömät ihonkuorintavalmisteet kuorintakapseleina kasvojen ja vartalon ihon kauneuskäsittelyjä varten käytettäväksi kosmeettisten lääketieteellisten laitteiden kanssa, Mitkään edellä mainituista ei ole tarkoitettu ehkäisemiseen tai Aknen hoitoaineet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Préparations exfoliantes non médicamenteuses pour la peau contenues dans des capsules exfoliantes pour le traitement esthétique de la peau du visage et du corps destinées à être utilisées avec des appareils médicaux cosmétiques, Aucun des produits précités pour la prévention ou Traitements contre l'acné.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Nemedicinski pripravci za eksfolijaciju za kožu u kapsuli za eksfolijaciju za estetski tretman kože lica i tijela za uporabu s kozmetičkim medicinskim uređajima, Ništa od navedenog nije za prevenciju ili Tretmani za akne.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Nem gyógyhatású bőrradírozó készítmények radírozó kapszulákban, arc- és testbőr esztétikai kezelésére, kozmetikai orvosi eszközökkel történő használatra, A fentiek egyike sem megelőzés céljából vagy Aknékezelések.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Preparati esfolianti non medicati per la pelle in capsule esfolianti per il trattamento estetico della pelle del viso e del corpo per l'uso con apparecchiature mediche cosmetiche, Nessuno dei suddetti per la prevenzione o Trattamenti antiacne.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Negydomieji odos šveitimo preparatai, esantys odos šveitimo kapsulėse estetiniam veido ir kūno odos gydymui, naudojami su kosmetiniais medicinos prietaisais, Nė vienas iš aukščiau išvardytų nėra skirtas profilaktikai ar Preparatai nuo spuogų.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Nemedicīniski pīlinga līdzekļi ādai pīlinga kapsulā sejas un ķermeņa estētiskai sejas un ķermeņa ārstēšanai, lietojot kosmētiskos medicīnas aparātus, Neviens no iepriekš minētajiem novēršanai vai Pūtīšu ārstēšanas līdzekļi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Preparazzjonijiet esfoljanti mhux immedikati għall-ġilda f'kapsula tal-esfoljazzjoni għal trattament estetiku tal-ġilda tal-wiċċ u tal-ġisem għal użu ma' apparat mediku kożmetiku, L-ebda minn dak imsemmi hawn fuq għall-prevenzjoni jew Trattamenti ta' l-akne.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Niet-medicinale huidscrubmiddelen in capsules voor het scrubben van de huid als esthetische gezichts- en lichaamshuidbehandeling voor gebruik met cosmetische medische apparatuur, Niets van het voornoemde voor voorkoming of Middelen voor de behandeling van acne.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Preparaty złuszczające nielecznicze do skóry w kapsułce złuszczającej do estetycznych zabiegów na skórę twarzy i ciała do stosowania z kosmetycznymi urządzeniami medycznymi, Żaden z wyżej wymienionych nie do profilaktyki lub Preparaty do leczenia trądziku.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Esfoliantes não medicinais para a pele sob a forma de cápsulas esfoliantes para o tratamento estético da pele do rosto e do corpo, para uso com aparelhos de medicina estética, Nenhum dos produtos atrás referidos para prevenção ou Tratamentos da acne.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Preparate exfoliante nemedicamentoase pentru piele, în capsulă exfoliantă, pentru tratament estetic pentru față și corp destinate utilizării cu aparate medicale cosmetice, Niciunele din cele de mai sus nefiind pentru prevenție sau Tratamente impotriva acneei.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Neliečivé exfoliačné pleťové prípravky na estetické ošetrovanie tváre a tela používané s kozmetickými lekárskymi prístrojmi, Žiadne z vyššie uvedených výrobkov nie sú určené na prevenciu alebo Prípravky na ošetrovanie akné.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Izdelki za piling kože brez zdravilnih učinkovin v kapsuli za piling za estetske postopke na koži obraza in telesa za uporabo s kozmetičnimi medicinskimi aparati, Nič od zgoraj navedenega ni za preprečevanje ali Sredstva za zdravljenje akne.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Icke-medicinska avflagringspreparat för huden i avflagringskapsel för estetisk ansikts- och kroppshudsbehandling för användning med kosmetiska medicinska apparater, Inget av det tidigare nämnda är avsett för förebyggande eller Aknebehandlingar.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PriorityDetails>
+<Priority>
+<PriorityCountryCode>US</PriorityCountryCode>
+<PriorityNumber>88567725</PriorityNumber>
+<PriorityDate>2019-08-06</PriorityDate>
+<PriorityPartialIndicator>false</PriorityPartialIndicator>
+<PriorityStatusCode>Claimed</PriorityStatusCode>
+</Priority>
+</PriorityDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/026</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-02-10</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/104</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-06-04</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/182</PublicationIdentifier>
+        <PublicationSection>C.3.2</PublicationSection>
+        <PublicationDate>2020-09-23</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>318940</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>46231</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<MarkRecordDetails>
+<MarkRecord>
+<BasicRecord>
+<RecordIdentifier>018393911</RecordIdentifier>
+<BasicRecordKind>Trade mark - Partial Surrender</BasicRecordKind>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>46231</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<RecordCurrentStatusCode>Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2020-09-23</RecordCurrentStatusDate>
+</BasicRecord>
+</MarkRecord>
+</MarkRecordDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

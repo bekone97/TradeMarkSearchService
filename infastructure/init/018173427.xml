@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-06-09T09:20:02</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018173427</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018173427</ApplicationNumber>
+<ApplicationDate>2020-01-04</ApplicationDate>
+<RegistrationDate>2020-05-22</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>de</SecondLanguageCode>
+<ExpiryDate>2030-01-04</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-06-09</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>ÆRO MATE</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>38</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Услуги за достъп до съдържание, уебсайтове и портали.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Přístup k obsahu internetu, k internetovým stránkám a portálům.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Tilvejebringelse af adgang til indhold, web-sider og portaler.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Bereitstellung des Zugriffs auf Inhalte, Webseiten und Internetportale.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Πρόσβαση σε περιεχόμενο, ιστοσελίδες και διαδικτυακές πύλες.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Access to content, websites and portals.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Acceso a contenidos, portales y sitios web.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Juurdepääs andmetele, veebilehekülgedele ja portaalidele.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Pääsyn tarjoaminen sisältöön, verkkosivuille ja portaaleihin.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Accès à du contenu, à des sites et à des portails internet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Pristup sadržaju, web stranicama i portalima.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Hozzáférés tartalmakhoz, weboldalakhoz és portálokhoz.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Accesso a contenuti, siti web e portali.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Prieiga prie informacijos, internetinių svetainių ir portalų.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Piekļuves nodrošināšana datiem un tīmekļa vietnēm un portāliem.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Aċċess għal kontenut, websajts u portals.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Toegang tot content, websites en portals.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Dostęp do treści, stron internetowych i portali.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Acessos a conteúdos, websites e portais.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Acces la continuț, pagini de internet și portaluri.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Poskytovanie prístupu do databáz, na webové stránky a portály.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Dostop do vsebin, spletnih strani in portalov.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Åtkomst till innehåll, webbsidor och portaler.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>39</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Чартиране на самолети.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Pronájem létajících strojů.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Chartring af luftfartøjer.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Flugzeug-Charterdienste.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Ναύλωση αεροσκαφών.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Charter of aircraft.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Fletamento de aeronaves.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Tšarterlendude tellimine.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Ilma-alusten tilauslennot.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Affrètement d'aéronefs.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Zakup [čarter] zrakoplova.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Repülőgépes charterjáratok.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Noleggio di aeromobili.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Oro transporto priemonių užsakymas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Lidaparātu fraktēšana.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Il-kiri ta' inġenji tal-ajru.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Het charteren van luchtvaartuigen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Czarterowanie statków powietrznych.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Fretamento de aeronaves.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Navlosire de aeronave.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Prenájom vzdušných dopravných prostriedkov.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Čarterski najem zrakoplovov.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Chartring av flygplan.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<SeniorityDetails>
+<Seniority>
+<SeniorityCountryCode>DE</SeniorityCountryCode>
+<SeniorityApplicationNumber>3020192350506</SeniorityApplicationNumber>
+<SeniorityFilingDate>2019-10-30</SeniorityFilingDate>
+<SeniorityRegistrationNumber>302019235050</SeniorityRegistrationNumber>
+<SeniorityRegistrationDate>2019-11-28</SeniorityRegistrationDate>
+<InternationalTradeMarkCode>EU</InternationalTradeMarkCode>
+<SeniorityPartialIndicator>false</SeniorityPartialIndicator>
+<SeniorityStatusCode>Accepted</SeniorityStatusCode>
+</Seniority>
+</SeniorityDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/011</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-01-20</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/107</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-06-09</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

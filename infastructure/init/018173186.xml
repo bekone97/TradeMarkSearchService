@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-06-09T08:21:14</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018173186</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018173186</ApplicationNumber>
+<ApplicationDate>2020-01-02</ApplicationDate>
+<RegistrationDate>2020-05-22</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>it</SecondLanguageCode>
+<ExpiryDate>2030-01-02</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-06-09</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>Hongtoo</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000159749650</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/173/018173186/000159749650.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>27.05.01</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>11</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Смесителни кранове за водопроводни тръби; Регулиращи и обезопасяващи приспособления за водни инсталации; Уреди за затопляне на въздуха в бани; Водопроводни инсталации за баня; Душове; Ниворегулиращи клапани за резервоари; Инсталации за сауни; Водни филтриращи устройства; Водни стерилизатори; Фитинги за баня.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Směšovací vodovodní baterie; Regulační a bezpečnostní příslušenství pro vodovodní zařízení; Vybavení pro teplovzdušné lázně; Koupelnové instalace; Sprchy; Ventily pro regulaci úrovně hladiny v nádržích; Sauna (Zařízení pro -); Zařízení na filtrování vody; Sterilizátory vody; Koupelnové armatury.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Blandingshaner til vandrør; Regulerings- og sikkerhedstilbehør til vandinstallationer; Armaturer til varmtluftsbade; Badeinstallationer; Brusere; Niveaukontrollerende ventiler til tanke; Saunainstallationer; Vandfiltreringsapparater; Vandsterilisatorer; Installationer (armaturer til bade -).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Mischbatterien für Wasserleitungen; Regelungs- und Sicherheitszubehör für Wassergeräte; Apparate für Heißluftbäder; Badinstallationen; Duschen; Niveauregelventile für Tanks; Saunaanlagen; Wasserfiltriergeräte; Wassersterilisierapparate; Badeapparate.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Υδραγωγούς (Στρόφιγγες ανάμιξης νερού για -)· Ρύθμισης και ασφάλειας παρελκόμενα για συσκευές ύδατος· Συσκευές για λουτρά αέρα θερμού· Λουτρού (Εγκαταστάσεις -)· Ντους· Βαλβίδες ρύθμισης στάθμης δεξαμενών· Εγκαταστάσεις λουτρού σάουνας· Συσκευές και εξοπλισμός για τη διήθηση του νερού· Ύδωρ (αποστειρωτές-ος)· Εξαρτήματα λουτρών.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Mixer taps for water pipes; Regulating and safety accessories for water apparatus; Hot air bath fittings; Bath plumbing fixtures; Showers; Level controlling valves in tanks; Sauna bath installations; Water filtering apparatus; Water sterilizers; Bath fittings.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Grifos de mezcla para tuberías de agua; Accesorios de regulación y seguridad para aparatos de agua; Aparatos para baños de aire caliente; Instalaciones de baño; Duchas; Válvulas reguladoras de nivel para depósitos; Instalaciones de sauna; Aparatos para filtrar el agua; Esterilizadores de agua; Aparatos para baños.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Veetorustiku segistite kraanid; Veevarustusseadmete reguleer- ja turvaseadised; Kuumaõhuvannigarnituurid; Vanni sanitaarseadmed; Dušid; Reservuaaritaseme kontrollkraanid; Saunaseadmed; Veefiltrimisseadmed; Veesterilisaatorid; Vannitarvikud.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Sekoitushanat vesijohtoihin; Säätö- ja turvavarusteet vesilaitteisiin; Kylpyhuoneen kuumailmalaitteet; Kylpyhuoneen saniteettivarusteet; Suihkut; Venttiilit säiliöiden nestepinnan säätämiseen; Saunavarusteet; Vedensuodatuslaitteet; Veden sterilointilaitteet; Kylpyhuoneiden kiintovarusteet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Robinets mélangeurs pour conduites d'eau; Accessoires de réglage et de sûreté pour appareils à eau; Appareils pour bains d'air chaud; Installations de bain; Douches; Soupapes régulatrices de niveau dans les réservoirs; Installations de sauna; Appareils à filtrer l'eau; Stérilisateurs d'eau; Appareils pour bains.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Mješalice [slavine za vodu]; Regulacijska i sigurnosna oprema za vodene aparate; Zrak, topli (uređaji za kupke s toplim zrakom); Sanitarna oprema za kupaonice; Tuševi; Ventili za reguliranje razine u spremnicima [rezervoarima]; Instalacije za saune; Uređaji za filtriranje vode; Sterilizatori vode; Oprema za kupaonicu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Keverő csaptelepek vízvezetékekhez; Szabályozó és biztonsági tartozékok vízkészülékekhez; Forrólevegős fürdőszerelvények; Fürdőszobai vízvezeték szerelvények; Zuhanyok; Szintszabályozó szelepek tartályokhoz; Szauna berendezések; Vízszűrő berendezések; Vízsterilizáló berendezések; Fürdőszoba szerelvények.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Rubinetti miscelatori per condotte d'acqua; Accessori di regolazione e di sicurezza per apparecchi ad acqua; Apparecchi per bagni d'aria calda; Impianti di bagni; Docce; Valvole regolatrici del livello nei serbatoi; Impianti per sauna; Apparecchi per filtrare l'acqua; Sterilizzatori d'acqua; Accessori per bagni.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Maišikliniai vandentiekio čiaupai; Vandens aparatų reguliavimo ir apsaugos priemonės; Karšto oro pirčių įrenginiai; Vonių kambarių įrenginiai; Dušai; Rezervuarų lygio reguliavimo vožtuvai; Saunų įrenginiai; Vandens filtravimo aparatai; Vandens sterilizatoriai; Vonių įrengimo reikmenys.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Jaucējkrāni ūdens caurulēm; Regulēšanas un drošības piederumi ūdens aparatūrai; Ierīces tvaika pirtīm; Vannas iekārtas; Dušas; Cisternu līmeņkontroles vārsti; Saunu aprīkojums; Ūdens filtrēšanas aparatūra; Ūdens sterilizatori; Vannu armatūra.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Vitien li jħalltu l-ilma sħun u kiesaħ għal mal-kanen tal-ilma; Aċċessorji biex tirregola u ta' sigurtà għal apparat tal-ilma; Tagħmir għal banjijiet b'arja sħuna; Partijiet tal-plàming tal-banju; Doċoċ; Valvoli li jikkontrollaw il-livell f'tankijiet; Installazzjonijiet tas-sawna; Apparat għall-iffiltrar tal-ilma; Sterilizzaturi tal-ilma; Fittjaturi tal-banju.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Mengkranen voor waterleidingen; Regel- en veiligheidsaccessoires voor waterapparaten; Garnituren voor heteluchtbaden; Badinstallaties; Douches; Ventielen voor het regelen van het vloeistofniveau in reservoirs; Sauna-installaties; Waterfiltreerapparaten; Watersterilisatoren; Badgarnituren.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Baterie mieszające do rur wodociągowych; Armatura regulacyjna i zabezpieczająca do urządzeń wodnych; Armatura do kąpieli parowych; Łazienkowe instalacje wodno-kanalizacyjne; Natryski, prysznice; Zawory regulujące poziom w zbiornikach; Instalacje do sauny; Urządzenia do filtrowania wody; Sterylizatory do wody; Akcesoria łazienkowe.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Torneiras misturadoras para condutas de água; Acessórios de regulação e de segurança para aparelhos de água; Aparelhos para banhos de ar quente; Instalações de banho; Chuveiros; Válvulas reguladoras de nível nos reservatórios; Instalações para sauna; Aparelhos para filtrar a água; Esterilizadores de água; Aparelhos para banhos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Robinete de amestecare pentru conducte de apă; Accesorii de reglaj şi siguranţă pentru aparate cu apă; Aparate pentru băi de aer cald; Instalaţii sanitare de baie; Duşuri; Supape regulatoare de nivel în rezervoare; Instalaţii de saună; Aparate de filtrare a apei; Sterilizatoare de apă; Accesorii pentru baie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Zmiešavacie batérie na vodovodné potrubia; Regulačné a bezpečnostné zariadenia na prístroje na vodu; Prístroje na teplovzdušný kúpeľ; Kúpeľňové armatúry; Sprchy; Regulačné ventily na reguláciu hladiny v nádržiach; Saunovacie zariadenia; Zariadenia na filtrovanie vody; Voda (Sterilizátory -); Inštalačný materiál na vane.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Mešalne pipe za vodovodne cevi; Regulacijski in varnostni pripomočki za vodne aparate; Aparati za kopeli z vročim zrakom; Oprema za kopalniške vodovodne napeljave; Tuši; Ventili za reguliranje nivoja v rezervoarjih; Napeljave za savne; Aparati za filtriranje vode; Sterilizatorji vode; Kopalniška oprema.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Blandningskranar för vattenledningar; Regler- och säkerhetsarmaturer för vattenapparater; Varmluftsbadarmaturer; Badinstallationer; Duschar; Nivåkontrollerande ventiler i tankar; Bastubadsinstallationer; Vattenfiltreringsapparater; Vattensterilisatorer; Armaturer för badrum.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/015</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-01-24</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/107</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-06-09</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1057089</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>14987</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<MarkRecordDetails>
+<MarkRecord>
+<BasicRecord>
+<RecordIdentifier>017223440</RecordIdentifier>
+<BasicRecordKind>Proprietor - Change of name and address</BasicRecordKind>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>14987</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<RecordCurrentStatusCode>Not to be published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2020-01-03</RecordCurrentStatusDate>
+</BasicRecord>
+</MarkRecord>
+</MarkRecordDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

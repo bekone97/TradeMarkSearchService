@@ -1,0 +1,11 @@
+mongock:
+  migration-scan-package: by.intexsoft.trademarksearchservice.changeunit
+spring:
+  profiles:
+    active: test
+init:
+  trademark:
+    url: ${INIT_TRADE_MARK_URL:src/test/resources/init}
+    loader: ${INIT_LOADER:local}
+server:
+  port: 8081

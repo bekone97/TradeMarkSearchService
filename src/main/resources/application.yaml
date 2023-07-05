@@ -1,0 +1,22 @@
+spring:
+  data:
+    mongodb:
+      database: ${DATABASE_NAME:searching_trademark_test_db}
+      port: ${DB_PORT:27017}
+      host: ${DB_HOST:localhost}
+      username: ${DB_USER:SomeUser}
+      password: ${DB_PASSWORD:SomePassword}
+      authentication-database: searching_trademark_test_db
+mongock:
+  migration-scan-package: by.intexsoft.trademarksearchservice.changeunit
+init:
+  trademark:
+    url: ${INIT_TRADE_MARK_URL:infastructure/init}
+server:
+  port: 8081
+springdoc:
+  api-docs:
+    enabled: true
+  swagger-ui:
+    disable-swagger-default-url: true
+    path: my-swagger

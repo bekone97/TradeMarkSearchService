@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-06-11T12:40:25</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018173412</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018173412</ApplicationNumber>
+<ApplicationDate>2020-01-03</ApplicationDate>
+<RegistrationDate>2020-05-22</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>fr</SecondLanguageCode>
+<ExpiryDate>2030-01-03</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-06-11</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>Justup</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>14</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Кутии за излагане на бижута; Бижута, изработени от сребро; Украшения [бижутерийни изделия]; Декоративни игли; Бижута с изкуствени скъпоценни камъни; Пръстени [бижутерия]; Атомни часовници; Ръчни часовници; Часовници; Каишки за ръчни часовници; Хронографи; Будилници; Часовници, съдържащи функция за електронна игра; Детски бижута; Бижута, изработени от скъпоценни камъни; Кутии за бижута [ковчежета]; Клипсове за вратовръзки.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Šperkovnice (kazety na šperky); Šperky vyrobené ze stříbra; Ozdoby (šperky); Ozdobné jehlice; Skleněná bižutérie (imitace drahokamů); Prsteny [šperky]; Atomové hodiny; Hodiny; Náramkové hodinky; Řemínky k náramkovým hodinkám; Chronografy; Budíky; Hodinky obsahující elektronické hry; Dětské šperky; Klenoty vyrobené z drahokamů; Šperkovnice; Spony na kravaty.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Smykkeæsker [skrin]; Smykker fremstillet af sølv; Smykker [guldsmedevarer]; Pyntenåle; Similismykker; Ringe [smykker]; Atomure; Ure; Armbåndsure; Remme til armbåndsure; Kronografer [ure]; Vækkeure; Armbåndsure med en elektronisk spilfunktion; Smykker til børn; Juvelerarbejder fremstillet af ædelstene; Smykkeskrin; Slipseklemmer.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Schmuckkästen; Juwelierwaren aus Silber; Schmuckwaren; Schmucknadeln; Strass [Edelsteinimitation]; Ringe [Schmuck]; Atomuhren; Uhren; Armbanduhren; Uhrenarmbänder; Chronografen [Uhren]; Wecker; Armbanduhren mit einer Funktion für elektronische Spiele; Kinderschmuck; Schmuckstücke aus Edelsteinen; Schmuckschatullen; Krawattenhalter.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Κουτιά [ειδικής συσκευασίας] για μεμονωμένα κοσμήματα· Κοσμήματα κατασκευασμένα από ασήμι· Στολίδια [κοσμήματα]· Διακοσμητικές καρφίτσες· Στρας κοσμηματοποιίας· Δακτυλίδια [κοσμήματα]· Ωρολόγια ατομικά· Ρολόγια τοίχου ή επιτραπέζια, κοσμήματα· Ρολόγια τοίχου ή επιτραπέζια, κοσμήματα· Λουράκια για ωρολόγια χειρός· Χρονογράφοι· Ξυπνητήρια· Ρολόγια χειρός με ενσωματωμένη λειτουργία ηλεκτρονικού παιχνιδιού· Παιδικά κοσμήματα· Κοσμήματα από πολύτιμους λίθους· Κοσμηματοθήκες· Καρφίτσες για γραβάτες.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Jewellery cases [caskets]; Jewellery made from silver; Ornaments [jewellery, jewelry (Am.)]; Ornamental pins; Paste jewellery [costume jewelry (Am.)]; Rings [jewellery, jewelry (Am.)]; Atomic clocks; Clocks; Wristwatches; Straps for wristwatches; Chronographs [watches]; Alarm clocks; Wall clocks; Watches containing an electronic game function; Children's jewelry; Jewellery made of precious stones; Jewelry boxes; Tie bars.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Estuches para joyas; Joyería de plata; Adornos [artículos de joyería]; Alfileres de adorno; Estrás; Anillos [joyería]; Relojes atómicos; Relojes que no sean de uso personal; Relojes de pulsera; Pulseras de reloj; Cronógrafos [relojes de pulsera]; Despertadores; Relojes que contienen una función de juego electrónico; Joyería y bisutería infantil; Joyería hecha de piedras preciosas; Joyeros; Pasadores de corbata.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Ehtekarbid; Hõbeehted; Ehted [juveeltooted]; Ehisnõelad; Strassist juveeltooted; Sõrmused [juveeltooted]; Aatomkellad; Kellad; Käekellad; Kellarihmad; Kronograafid [käekellad]; Äratuskellad; Elektronmängufunktsiooniga käekellad; Lasteehted; Vääriskividest valmistatud juveeltooted; Ehtekarbid; Lipsuklambrid, -kinnitid, -nõelad.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Korulippaat; Hopeasta tehdyt korut; Koristeet (Korut); Koristepinssit ja -neulat; Strassikorut; Sormukset [korut]; Atomikellot; Kellot; Kellot; Rannekellojen hihnat; Kronografi; Herätyskellot; Elektronisella pelitoiminnolla varustetut rannekellot; Lasten korut; Jalokivistä tehdyt korut; Korurasiat; Solmionpidikkeet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Écrins; Bijoux en argent; Parures [bijouterie]; Épingles de parure; Strass; Bagues [bijouterie]; Horloges atomiques; Horloges; Montres-bracelets; Bracelets de montres; Chronographes [montres]; Réveille-matin; Montres présentant une fonction de jeux électroniques; Bijoux d’enfants; Bijoux en pierres précieuses; Boîtes à bijoux; Fixe-cravates.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Kutije za nakit; Nakit napravljen od srebra; Ukrasi [dragulji]; Ukrasne igle; Nakit od bižuterije; Prstenje [nakit]; Satovi, atomski; Satovi, zidni; Satovi, zidni; Remeni za ručne satove; Kronografi; Budilice; Satovi s funkcijom elektronskih igrica; Dječji nakit; Nakit napravljen od dragog kamenja; Kutijice za nakit; Igle za kravate.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Ékszertartók [ládikák]; Ezüst ékszerek; Díszek [ékszerek]; Dísztűk; Strassz [drágakő utánzat]; Gyűrűk [ékszerek]; Atomórák; Órák; Órák; Szíjak órákhoz; Kronográfok; Ébresztőórák; Elektronikus játék funkcióval rendelkező órák; Ékszerek gyermekeknek; Drágakövekből készült ékszerek; Ékszerdobozok; Nyakkendőtűk.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Cofanetti per gioielli; Articoli di gioielleria in argento; Ornamenti [gioielleria]; Spille per ornamento; Strass; Anelli [gioielleria]; Orologi atomici; Orologi a pendolo; Orologi da polso; Braccialetti per orologi [cinturini]; Cronografi [orologi]; Sveglie; Orologi contenenti una funzione di gioco elettronico; Gioielleria infantile; Articoli di gioielleria in pietre preziose; Scatole per gioielli; Ferma-cravatte.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Brangenybių dėklai; Juvelyriniai dirbiniai, pagaminti iš sidabro; Papuošalai [juvelyriniai dirbiniai]; Dekoratyvinės sagės; Strazai; Žiedai [juvelyriniai dirbiniai]; Atominiai laikrodžiai; Laikrodžiai [sieniniai, staliniai, bokšto]; Rankiniai laikrodžiai; Laikrodžių apyrankės; Chronografai [laikrodžiai]; Žadintuvai; Rankiniai laikrodžiai su elektroninių žaidimų funkcija; Vaikiški juvelyriniai dirbiniai; Brangakmenių juvelyriniai dirbiniai; Juvelyrinių dirbinių dėžutės; Kaklaraiščių segtukai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Dārglietu lādītes [šķirstiņi]; Juvelierizstrādājumi no sudraba; Rotājumi (juvelierizstrādājumi); Dekoratīvās piespraudes; Strasi (stikla juvelierizstrādājumi); Gredzeni (juvelierizstrādājumi); Atompulksteņi; Pulksteņi; Rokas pulksteņi; Rokas pulksteņu aproces; Hronogrāfi, kurus izmanto kā pulksteņus; Modinātājpulksteņi; Rokas pulksteņi ar elektroniskām spēlēm; Bērnu rotaslietas; Juvelierizstrādājumi no dārgakmeņiem; Dārglietu kārbiņas; Kaklasaišu saspraudes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Kontenituri tal-ġojjelli [kaxxetti]; Ġojjellerija magħmula mill-fidda; Ornamenti [ġojjellerija]; Labar ornamentali; Ġojjellerija falza; Ċrieket [ġojjellerija]; Arloġġi li jaħdmu b'teknoloġija tal-frekwenza elettronika transitorja; Arloġġi ta' l-id; Arloġġi ta' l-id; Ċineg tal-arloġġ tal-idejn; Kronografi; Żveljarini; Arloġġi tal-idejn li fihom funzjoni tal-logħob elettroniku; Ġojjellerija tat-tfal; Ġojjellerija magħmula minn ħaġar prezzjuż; Kaxxi għall-ġojjelli; Labar tal-ingravata.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Juwelendoosjes; Juwelierswaren vervaardigd uit zilver; Sieraden [juwelierswaren]; Sierspelden; Stras; Ringen [juwelierswaren]; Atoomklokken; Klokken; Polshorloges; Horlogebanden; Chronografen [horloges]; Wekkers; Horloges met een elektronische spelfunctie; Juwelen voor kinderen; Juwelierswaren vervaardigd uit edelstenen; Juwelenkistjes; Dassenhouders.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Kasetki na biżuterię; Wyroby jubilerskie wykonane ze srebra; Ozdoby [biżuteria]; Szpilki ozdobne; Biżuteria ze szkła sztrasowego; Pierścionki [biżuteria]; Zegary atomowe; Zegarki; Zegarki; Paski do zegarków; Chronografy; Budziki; Zegarki zawierające funkcję gier elektronicznych; Biżuteria dla dzieci; Biżuteria wykonana z kamieni szlachetnych; Kasetki na biżuterię [szkatułki]; Szpilki do krawatów.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Cofres para joias; Joalharia de prata; Adereços [bijutaria]; Alfinete ornamentais; Strass [bijuteria]; Anéis [joalharia]; Relógios atómicos; Relógios; Relógios de pulso; Braceletes para relógios; Cronógrafos [relógios]; Relógios despertadores; Relógios com função de jogo eletrónico; Joias para crianças; Joalharia feita de pedras preciosas; Caixas para joias; Clipes para gravatas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Cutii pentru bijuterii; Bijuterii fabricate din argint; Podoabe [bijuterie]; Broșe [bijuterie]; Ștrasuri; Inele [bijuterii]; Ceasornice atomice; Brățară (Ceasuri cu -); Brățară (Ceasuri cu -); Brățări de ceas; Cronografe; Ceasuri deșteptătoare; Ceasuri care conțin o funcție de joc electronic; Bijuterii pentru copii; Bijuterii din pietre prețioase; Casete de bijuterii; Ace de cravată.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Kazety na šperky; Šperky zo striebra; Ozdoby [šperky]; Ozdobné ihlice; Štras (brúsené olovnaté sklo); Prstene (klenotnícke výrobky); Atómové hodiny; Hodiny; Náramkové hodinky; Remienky na náramkové hodinky; Chronografy (hodinky); Budíky; Hodinky obsahujúce funkciu elektronických hier; Detské šperky; Šperky z drahokamov; Šperkovnice; Spony na kravaty.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Skrinjice za nakit; Nakit iz srebra; Okraski [nakit]; Okrasne igle (nakit); Bižuterija; Prstani [nakit]; Atomske ure; Ročne ure; Ročne ure; Paščki za ure; Kronografi; Budilke; Ročne ure z elektronskimi igrami; Otroški nakit; Nakit iz dragih kamnov; Škatle za nakit; Kravatne igle.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Smyckesaskar; Smycken gjorda av silver; Prydnader (juvelerarvaror); Prydnadsnålar; Oäkta smycken; Ringar [smycken]; Atomur; Klockor; Armbandsur; Remmar för armbandsur; Kronografer; Väckarklockor; Armbandsur innehållande en elektronisk spelfunktion; Barnsmycken; Smycken av ädelstenar; Smyckeskrin; Slipsnålar.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/006</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-01-13</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/108</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-06-10</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>85806</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<MarkRecordDetails>
+<MarkRecord>
+<BasicRecord>
+<RecordIdentifier>017221139</RecordIdentifier>
+<BasicRecordKind>Representative - Replacement of representative</BasicRecordKind>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>85806</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<RecordCurrentStatusCode>Not to be published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2020-01-03</RecordCurrentStatusDate>
+</BasicRecord>
+</MarkRecord>
+</MarkRecordDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

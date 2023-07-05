@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-06-08T08:56:49</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018173421</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018173421</ApplicationNumber>
+<ApplicationDate>2020-01-04</ApplicationDate>
+<RegistrationDate>2020-05-22</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>fr</SecondLanguageCode>
+<ExpiryDate>2030-01-04</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-06-08</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>Preflet</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>9</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Софтуер за бизнес технологии.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Software pro obchodní technologie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Software til virksomhedssteknologi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Software für Unternehmenstechnologie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Λογισμικό για τεχνολογία επιχειρήσεων.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Business technology software.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Software de tecnología de negocios.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Äritehnoloogia tarkvara.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Ohjelmistot yritysteknologiaa varten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Logiciel de technologie commerciale.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Softver za poslovnu tehnologiju.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Üzleti technológiai szoftverek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Software per tecnologia aziendale.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Verslo technologijų programinė įranga.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Uzņēmējdarbības tehnoloģiju programmatūra.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Softwer għat-teknoloġija tan-negozju.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Software voor zakelijke technologie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Oprogramowanie do technologii biznesowych.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Software para tecnologias empresariais.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Software pentru tehnologia afacerilor.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Softvér na obchodné technológie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Programska oprema za poslovno tehnologijo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Programvara för affärsteknik.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/024</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-02-06</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/106</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-06-08</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1057491</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

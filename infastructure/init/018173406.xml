@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-05-26T10:53:56</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018173406</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018173406</ApplicationNumber>
+<ApplicationDate>2020-01-02</ApplicationDate>
+<RegistrationDate>2020-05-22</RegistrationDate>
+<ApplicationLanguageCode>fr</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-01-02</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-05-26</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>M</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000159748022</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/173/018173406/000159748022.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>27.05.21</CategoryCode>
+          <CategoryCode>27.05.25</CategoryCode>
+          <CategoryCode>27.99.13</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>9</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Очила; Поляризационни очила; Очила за предпазване от прах; Противозаслепяващи очила; Принадлежности за коригиране на зрението; Държачи за очила; Странични защитни протектори за очила; Смарт очила; Лещи за очила; Предпазни очила за сняг; Очила за велосипедисти; Рамки за пенснета; Рамки за очила и слънчеви очила; Калъфи за очила; Калъфи за слънчеви очила; Калъфи за детски очила; Връзки за очила; Щипки за слънчеви очила; Оптични апарати и инструменти; Очила с антирефлексно покритие; Фотосензитивно стъкло.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Brýle; Polarizační brýle; Prachotěsné brýle; Antireflexní brýle; Optické prostředky na korekci zrakových vad; Stojany na brýle; Clony na brýle; Chytré brýle; Čočky do brýlí; Lyžařské brýle; Cyklistické brýle; Brýlové obroučky; Obroučky brýlí a slunečních brýlí; Pouzdra na brýle; Pouzdra na sluneční brýle; Pouzdra na dětské brýle; Šňůrky k brýlím; Sluneční klip (připínací sluneční brýle); Optické přístroje a nástroje; Brýle s antireflexní úpravou; Fotosenzitivní sklo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Briller; Polariseringsbriller; Støvtætte briller; Blændingsforhindrende briller; Korrigerende briller og kontaktlinser; Holdere til briller; Skærme til briller; Intelligente briller; Brilleglas; Snebriller; Briller til cyklister; Brillestel; Brillestel og solbrillestel; Etuier til briller; Etuier til solbriller; Etuier til børnebriller; Snore til briller; Solbriller der kan klipses på; Optiske apparater og instrumenter; Antirefleksbehandlede briller; Lysfølsomt glas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Brillen; Polarisierende Brillen; Staubschutzbrillen; Blendschutzbrillen; Korrigierende Brillen und Kontaktlinsen; Brillenhalter; Brillenschutzschirme; Datenbrillen; Brillengläser; Skibrillen; Radfahrerbrillen; Brillenfassungen, -gestelle; Gestelle für Brillen und Sonnenbrillen; Abdeckungen für Brillen; Sonnenbrillenetuis; Etuis für Kinderbrillen; Brillenschnüre; Aufsteckbare Sonnenbrillen [Clip-on]; Optische Apparate und Instrumente; Brillengläser mit Antireflexbeschichtung; Lichtempfindliches Glas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Διόπτρες· Πολαριζέ γυαλιά όρασης· Γυαλιά προστασίας από τη σκόνη· Αντιθαμβωτικά γυαλιά· Γυαλιά διόρθωσης όρασης· Θήκες για γυαλιά οράσεως· Προστατευτικά για τα γυαλιά οράσεως· Έξυπνα γυαλιά· Φακοί για γυαλιά οράσεως· Προστατευτικά γυαλιά για το χιόνι· Γυαλιά για ποδηλάτες· Σκελετοί γυαλιών· Σκελετοί για γυαλιά οράσεως και γυαλιά ηλίου· Θήκες για γυαλιά· Θήκες γυαλιών ηλίου· Θήκες παιδικών γυαλιών οράσεως· Κορδόνια γυαλιών επιρρίνιων· Πρόσθετοι ηλιακοί φακοί για γυαλιά οράσεως· Οπτικές (συσκευές και όργανα)· Γυαλιά όρασης με αντιανακλαστική επίστρωση· Φωτοευαίσθητο γυαλί.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Spectacles; Polarizing spectacles; Dustproof glasses; Anti-glare glasses; Corrective eyewear; Spectacle holders; Eyeglass shields; Smartglasses; Spectacle lenses; Snow goggles; Cyclists' glasses; Spectacle frames; Frames for spectacles and sunglasses; Covers for glasses; Cases for sunglasses; Cases for children's eye glasses; Spectacle cords; Clip-on sunglasses; Optical apparatus and instruments; Antireflection coated eyeglasses; Photosensitive glass.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Gafas [óptica]; Gafas polarizadas; Gafas antipolvo; Gafas antideslumbrantes; Lentes correctoras; Soportes para gafas; Pantallas protectoras para gafas; Gafas inteligentes; Lentes para gafas; Gafas especiales para la nieve; Gafas para ciclistas; Monturas de gafas; Monturas de gafas y gafas de sol; Fundas para gafas; Estuches para gafas de sol; Estuches para gafas de niño; Cordones para gafas; Clips solares para gafas; Aparatos e instrumentos ópticos; Gafas con revestimiento antireflectante; Cristal fotosensible.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Prillid [optika]; Polariseerivad prillid; Tolmukaitseprillid; Pimestusvastased prillid; Nägemist korrigeerivad prillid; Prillihoidjad; Prillikaitsmed; Nutiprillid; Prilliklaasid; Suusatajate kaitseprillid; Ratturiprillid; Prilliraamid; Prilli- ja päikeseprilliraamid; Prilliümbrised; Päikeseprillitoosid; Toosid laste prillidele; Prillipaelad; Prillidele pealepandavad päikeseprilliklaasid; Optikaseadmed, optikariistad; Peegeldusvastase kattega prillid; Valgustundlik klaas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Silmälasit; Polarisoivat silmälasit; Pölytiiviit lasit; Häikäisysuojalasit; Näköä korjaavat välineet; Silmälasinpidikkeet; Silmälasisuojat; Älylasit; Linssit silmälaseille; Lumella käytettävät suojalasit; Pyöräilylasit; Silmälasinkehykset; Silmälasien ja aurinkolasien kehykset; Silmälasinsuojat; Aurinkolasikotelot; Kotelot lasten silmälaseille; Silmälasien nauhat; Silmälaseihin kiinnitettävät aurinkolasit; Optiset laitteet ja kojeet; Silmälasit, jotka on pinnoitettu heijastusta ehkäisevästi; Valoherkkä lasi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Lunettes; Lunettes polarisantes; Lunettes antipoussière; Lunettes antiéblouissement; Lunettes correctives; Lunettes [optique]; Supports pour lunettes; Protections pour lunettes; Lunettes intelligentes; Verres pour lunettes; Lunettes de ski; Lunettes de cyclistes; Montures de lunettes; Châsses [montures] de lunettes; Montures [châsses] de lunettes; Montures pour lunettes et lunettes de soleil; Étuis à lunettes; Étuis à lunettes de soleil; Étuis à lunettes pour enfants; Cordons de lunettes; Clips solaires pour lunettes; Appareils et instruments optiques; Lunettes à revêtement anti-reflet; Verres photosensibles.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Naočale; Polarizirajuće naočale; Naočale sa zaštitom od prašine; Antireflekscijske naočale; Korektivne naočale; Držači naočala; Štitnici za okulare; Pametne naočale; Leće za naočale; Naočale za snijeg; Biciklističke naočale; Okviri za naočale; Okviri za naočale i sunčane naočale; Futrole za naočale; Futrole za sunčane naočale; Futrole za dječje naočale; Vezice za naočale; Clipon [sunčani nastavak za naočale]; Optički uređaji i instrumenti; Naočale s antirefleksnim premazom; Fotoosjetljivo staklo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Szemüvegek; Polarizációs szemüvegek; Pormentes üvegek; Vakításgátló szemüvegek; Látásjavító szemüvegek; Szemüvegtartók, szemüvegtartó állványok; Szemüveglencse-védők; Okosszemüvegek; Szemüveglencsék; Síszemüvegek; Kerékpáros szemüvegek; Szemüvegkeretek; Keretek szemüvegekhez és napszemüvegekhez; Borítók szemüvegekhez; Napszemüveg tokok; Szemüvegtokok gyermekszemüvegekhez; Szemüvegzsinórok; Szemüvegre csíptethető napszemüvegek; Optikai készülékek és eszközök; Visszaverődésgátló bevonattal ellátott szemüvegek; Fényérzékeny üveg.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Occhiali [ottica]; Occhiali polarizzanti; Occhiali antipolvere; Occhiali antiabbaglianti; Occhiali correttivi; Portaocchiali; Protezioni per occhiali; Occhiali intelligenti [smartglass]; Lenti per occhiali; Occhiali da neve; Occhiali da ciclisti; Montature di occhiali; Montature per occhiali e occhiali da sole; Custodie per occhiali; Astucci per occhiali da sole; Custodie per occhiali per bambini; Cordoncini per occhiali; Aggiuntivi (clip-on) per occhiali; Apparecchi e strumenti ottici; Occhiali con rivestimento antiriflesso; Vetro fotosensibile.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Akiniai; Poliarizuoti akiniai; Dulkių nepraleidžiantys akiniai; Akiniai nuo akinimo; Korekciniai akiniai; Akinių laikikliai; Akinių apsauginiai skydeliai; Išmanieji akiniai; Akinių lęšiai; Apsauginiai akiniai nuo sniego; Dviratininkų akiniai; Akinių rėmai; Akinių ir akinių nuo saulės rėmeliai; Akinių lęšių dangos; Akinių nuo saulės dėklai; Vaikiškų akinių dėklai; Akinių raišteliai; Prisegamieji akiniai nuo saulės (tvirtinami ant akinių); Optiniai aparatai ir prietaisai; Akiniai su antirefleksine danga; Šviesai jautrus stiklas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Brilles; Polarizētās brilles; Putekļnecaurlaidīgas brilles; Pretapžilbšanas brilles; Koriģējošas brilles; Briļļu turētāji; Briļļu aizsargi; Viedās brilles; Briļļu lēcas; Sniega aizsargbrilles; Velosipēdistu brilles; Briļļu rāmji; Briļļu un saulesbriļļu rāmji; Futlāru somiņas brillēm; Futrāļi saulesbrillēm; Futrāļi bērnu brillēm; Briļļu aukliņas; Nostiprināmas saulesbrilles; Optiskie aparāti un instrumenti; Brilles ar pretatspīduma pārklājumu; Gaismjutīgi stikli.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Nuċċalijiet; Nuċċalijiet polarizzanti; Nuċċalijiet ta' kontra t-trab; Nuċċalijiet bi protezzjoni minn dawl qawwi; Ilbies tal-għajnejn korrettiv; Kontenituri li jżommu n-nuċċalijiet; Protetturi ta' nuċċali; Nuċċalijiet intelliġenti (smartglasses); Lentijiet tal-ħġieġ għan-nuċċalijiet; Nuċċalijiet għas-silġ; Nuċċalijiet għaċ-ċiklisti; Frejms għan-nuċċalijiet; Frejms għan-nuċċalijiet u n-nuċċalijiet tax-xemx; Kisi għan-nuċċalijiet; Kaxxetti għan-nuċċalijiet tax-xemx; Kaxxetti għan-nuċċalijiet tat-tfal; Kordi tan-nuċċalijiet tal-għajnejn; Nuċċalijiet tax-xemx li jitwaħħlu b'molla; Apparat u strumenti ottiċi; Nuċċalijiet tal-vista b'kisja għal konta r-riflessjoni; Ħġieġ sensittiv għad-dawl.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Brillen [optiek]; Brillen (Polariserende -); Stofwerende brillenglazen; Antiverblindingsbrillen; Corrigerende brillen; Brillenhouders; Brilbeschermers; Intelligente brillen; Brillenglazen; Sneeuwbrillen; Brillen voor fietsers; Brilmonturen; Monturen voor brillen en zonnebrillen; Hoezen voor brillen; Kokers voor zonnebrillen; Etuis voor kinderbrillen; Brillenkoordjes; Zonneclips voor brillen; Optische apparaten en instrumenten; Ontspiegelde brillenglazen; Lichtgevoelig glas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Okulary; Okulary polaryzacyjne; Okulary kurzoodporne; Okulary przeciwoślepieniowe; Okulary korekcyjne; Uchwyty do okularów; Osłony do okularów; Okulary inteligentne; Soczewki do okularów; Gogle zimowe; Okulary dla rowerzystów; Oprawki do okularów; Oprawki do okularów i okularów przeciwsłonecznych; Futerały na okulary; Etui na okulary przeciwsłoneczne; Etui na okulary dziecięce; Sznurki do okularów; Szkła przeciwsłoneczne nakładane na okulary; Urządzenia i przyrządy optyczne; Szkła okularowe pokryte powłoką antyrefleksyjną; Szkło fotoczułe.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Óculos [ótica]; Óculos polarizantes; Óculos de proteção anti-poeiras; Óculos antirreflexo; Óculos corretivos; Suportes para óculos; Palas de proteção para óculos; Óculos inteligentes; Lentes de óculos; Óculos para a neve; Óculos para ciclistas; Armações de óculos; Armações para óculos e óculos de sol; Estojos para óculos; Estojos para óculos de sol; Estojos para óculos de criança; Cordões para óculos; Palas para óculos de sol; Aparelhos e instrumentos óticos; Óculos com revestimento antirreflexo; Vidro fotossensível.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Ochelari; Ochelari cu lentile polarizate; Ochelari antipraf; Ochelari antireflex; Ochelari corectori; Suporturi pentru ochelari; Apărători pentru ochelari; Ochelari inteligenți; Lentile pentru ochelari; Ochelari de protecție pentru zapadă; Ochelari pentru cicliști; Rame de ochelari fără brațe; Rame pentru ochelari de vedere și ochelari de soare; Tocuri de ochelari; Etuiuri pentru ochelari de soare; Tocuri pentru ochelari de vedere pentru copii; Șnururi pentru ochelari fără brațe; Ochelari cu lentile de soare atașabile (clip-on); Aparate și instrumente optice; Ochelari cu înveliș antireflex; Sticlă fotosensibilă.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Okuliare; Polarizačné okuliare; Protiprachové okuliare; Okuliare proti oslepeniu svetlom; Dioptrické okuliare a šošovky; Držiaky na okuliare; Clony na okuliare; Inteligentné okuliare; Okuliarové šošovky; Lyžiarske okuliare; Cyklistické okuliare; Rámy na okuliare; Rámy na okuliare a na slnečné okuliare; Puzdrá na okuliare; Puzdrá na slnečné okuliare; Puzdrá na detské okuliare; Šnúrky na okuliare; Okuliare s možnosťou pripnutia slnečných skiel; Optické prístroje a nástroje; Okuliare s antireflexnou úpravou; Svetlocitlivé sklo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Očala; Polarizacijska očala; Očala z zaščito proti prahu; Očala proti bleščanju; Očesni korekcijski pripomočki; Stojala za očala; Ščitniki za očala; Pametna očala; Leče za očala; Smučarska očala; Kolesarska očala; Okvirji za očala; Okvirji za očala in sončna očala; Etuiji za očala; Etuiji za sončna očala; Etuiji za otroška očala; Vrvice za očala; Nastavki za sončna očala; Optični aparati in instrumenti; Očala, prevlečena s sredstvom proti odsevanju; Fotosenzibilno steklo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Glasögon; Polariserande glasögon; Dammtäta glasögon; Bländskyddsglasögon; Korrigerande glasögon; Hållare för glasögon; Glasögonskärmar; Smarta glasögon; Glasögonlinser; Snöglasögon; Glasögon för cyklister; Glasögonbågar; Bågar för glasögon och solglasögon; Fodral för glasögon; Fodral till solglasögon; Fodral för barnglasögon; Glasögonsnoddar; Clip-on solglasögon; Optiska apparater och instrument; Antireflexbehandlade glasögon; Ljuskänsligt glas.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/011</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-01-20</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/098</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-05-26</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1057249</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>94417</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

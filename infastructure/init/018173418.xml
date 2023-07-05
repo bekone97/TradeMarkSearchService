@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-09-03T23:00:40</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018173418</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018173418</ApplicationNumber>
+<ApplicationDate>2020-01-03</ApplicationDate>
+<ApplicationLanguageCode>it</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<MarkCurrentStatusCode milestone="2" status="4">Application refused</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-24</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>GOLF AMATEURS OPEN</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000159791939</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/173/018173418/000159791939.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>25.05.99</CategoryCode>
+          <CategoryCode>29.01.01</CategoryCode>
+          <CategoryCode>29.01.03</CategoryCode>
+          <CategoryCode>29.01.04</CategoryCode>
+          <CategoryCode>29.01.08</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>41</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Организиране на спортни състезания и спортни дейности.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Organizování sportovních soutěží a sportovních událostí.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Organisering af sportsarrangementer og -konkurrencer.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Organisation von Sportveranstaltungen und sportlichen Wettbewerben.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Οργάνωση αθλητικών εκδηλώσεων και αθλητικών αγώνων.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Organising of sporting activities and of sporting competitions.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Organización de actividades y competiciones deportivas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Sporditegevuse ja -võistluste korraldamine.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Urheilutoiminnan tai -kilpailujen järjestäminen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Organisation d'activités et de compétitions sportives.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Organizacija sportskih aktivnosti i sportskih natjecanja.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Sporttevékenységek és sportversenyek szervezése.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Organizzazione di attività sportive e di competizioni sportive.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Sporto renginių ir sporto varžybų rengimas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Sporta sacensību un sporta pasākumu rīkošana.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">L-organizzazzjoni ta' attivitajiet sportivi u kompetizzjonijiet sportivi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Organisatie van sportactiviteiten en van sportwedstrijden.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Organizowanie zajęć sportowych i zawodów sportowych.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Organização de atividades e competições desportivas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Organizare de activități sportive și competiții sportive.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Organizovanie športových podujatí a súťaží.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Organiziranje športnih aktivnosti in tekmovanj.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Organisering av sportevenemang och av idrottstävlingar.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>833924</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>
