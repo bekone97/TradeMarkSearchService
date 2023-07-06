@@ -35,7 +35,7 @@ public class TradeMarkController {
     @Operation(summary = "Returns all trademarks or trademarks which are suitable for search value")
     @ApiResponses({
             @ApiResponse(responseCode = RESPONSE_CODE_OK, description = RESPONSE_DESCRIPTION_OK,
-                    content = {@Content(mediaType = MediaType.APPLICATION_XML_VALUE,
+                    content = {@Content(mediaType = MediaType.APPLICATION_JSON_VALUE,
                             schema = @Schema(implementation = TradeMarkDtoOut.class))})
     })
     @GetMapping
@@ -55,7 +55,7 @@ public class TradeMarkController {
                     content = {@Content(mediaType = APPLICATION_JSON,
                             schema = @Schema(implementation = TradeMarkDtoOut.class))}),
             @ApiResponse(responseCode = RESPONSE_CODE_NOT_FOUNDED, description = RESPONSE_DESCRIPTION_NOT_FOUNDED,
-                    content = {@Content(mediaType = MediaType.APPLICATION_XML_VALUE,
+                    content = {@Content(mediaType = MediaType.APPLICATION_JSON_VALUE,
                             schema = @Schema(implementation = TradeMarkSearchApiErrorResponse.class))})
     })
     @GetMapping(value = "/{applicationNumber}")
